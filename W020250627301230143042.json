@@ -1,0 +1,1738 @@
+[
+  {
+    "index": 1,
+    "name": "北京市海淀区职工大学",
+    "code": "4211050001",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 2,
+    "name": "北京市东城区职工业余大学",
+    "code": "4211050002",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 3,
+    "name": "北京市崇文区职工大学",
+    "code": "4211050004",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 4,
+    "name": "北京宣武红旗业余大学",
+    "code": "4211050005",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 5,
+    "name": "北京市石景山区业余大学",
+    "code": "4211050006",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 6,
+    "name": "北京市朝阳区职工大学",
+    "code": "4211050007",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 7,
+    "name": "北京医药职工大学",
+    "code": "4211050018",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 8,
+    "name": "北京市总工会职工大学",
+    "code": "4211050025",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 9,
+    "name": "中央党校继续教育学院",
+    "code": "4211050038",
+    "department": "中共中央党校",
+    "remark": ""
+  },
+  {
+    "index": 10,
+    "name": "中国记协职工新闻学院",
+    "code": "4211050043",
+    "department": "中华全国新闻工作者协会",
+    "remark": ""
+  },
+  {
+    "index": 11,
+    "name": "中南海业余大学",
+    "code": "4211050044",
+    "department": "中共中央办公厅",
+    "remark": ""
+  },
+  {
+    "index": 12,
+    "name": "北京教育学院",
+    "code": "4211050061",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 13,
+    "name": "北京开放大学",
+    "code": "4211051160",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 14,
+    "name": "国家开放大学",
+    "code": "4211051161",
+    "department": "教育部",
+    "remark": ""
+  },
+  {
+    "index": 15,
+    "name": "民航管理干部学院",
+    "code": "4211051167",
+    "department": "交通运输部",
+    "remark": ""
+  },
+  {
+    "index": 16,
+    "name": "北京市丰台区职工大学",
+    "code": "4211051624",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 17,
+    "name": "北京市西城经济科学大学",
+    "code": "4211051626",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 18,
+    "name": "北京市农工商联合总公司职工大学",
+    "code": "4211051630",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 19,
+    "name": "公安部管理干部学院",
+    "code": "4211051643",
+    "department": "公安部",
+    "remark": ""
+  },
+  {
+    "index": 20,
+    "name": "国家法官学院",
+    "code": "4211051651",
+    "department": "最高人民法院",
+    "remark": ""
+  },
+  {
+    "index": 21,
+    "name": "华北电业联合职工大学",
+    "code": "4211051800",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 22,
+    "name": "首都联合职工大学",
+    "code": "4211051837",
+    "department": "北京市",
+    "remark": ""
+  },
+  {
+    "index": 23,
+    "name": "国家检察官学院",
+    "code": "4211051898",
+    "department": "最高人民检察院",
+    "remark": ""
+  },
+  {
+    "index": 24,
+    "name": "天津市和平区新华职工大学",
+    "code": "4212050063",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 25,
+    "name": "天津市河西区职工大学",
+    "code": "4212050064",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 26,
+    "name": "天津市河东区职工大学",
+    "code": "4212050065",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 27,
+    "name": "天津市红桥区职工大学",
+    "code": "4212050066",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 28,
+    "name": "天津市南开区职工大学",
+    "code": "4212050068",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 29,
+    "name": "天津市建筑工程职工大学",
+    "code": "4212050070",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 30,
+    "name": "天津市职工经济技术大学",
+    "code": "4212050073",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 31,
+    "name": "天津市渤海化工职工学院",
+    "code": "4212050095",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 32,
+    "name": "天津开放大学",
+    "code": "4212051171",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 33,
+    "name": "天津市政法管理干部学院",
+    "code": "4212051175",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 34,
+    "name": "天津市工会管理干部学院",
+    "code": "4212051176",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 35,
+    "name": "天津市房地产局职工大学",
+    "code": "4212051659",
+    "department": "天津市",
+    "remark": ""
+  },
+  {
+    "index": 36,
+    "name": "河北开放大学",
+    "code": "4213051177",
+    "department": "河北省",
+    "remark": ""
+  },
+  {
+    "index": 37,
+    "name": "石家庄职工大学",
+    "code": "4213051180",
+    "department": "河北省",
+    "remark": ""
+  },
+  {
+    "index": 38,
+    "name": "海关管理干部学院",
+    "code": "4231051332",
+    "department": "海关总署",
+    "remark": ""
+  },
+  {
+    "index": 39,
+    "name": "河北管理干部学院",
+    "code": "4213051723",
+    "department": "河北省",
+    "remark": ""
+  },
+  {
+    "index": 40,
+    "name": "河北青年管理干部学院",
+    "code": "4213051802",
+    "department": "河北省",
+    "remark": ""
+  },
+  {
+    "index": 41,
+    "name": "太原化学工业集团有限公司职工大学",
+    "code": "4214050162",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 42,
+    "name": "山西机电职工学院",
+    "code": "4214050163",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 43,
+    "name": "太原钢铁(集团)有限公司职工钢铁学院",
+    "code": "4214050164",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 44,
+    "name": "山西煤炭职工联合大学",
+    "code": "4214050167",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 45,
+    "name": "山西兵器工业职工大学",
+    "code": "4214050169",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 46,
+    "name": "山西省职工工艺美术学院",
+    "code": "4214050175",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 47,
+    "name": "山西开放大学",
+    "code": "4214051187",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 48,
+    "name": "山西省政法管理干部学院",
+    "code": "4214051787",
+    "department": "山西省",
+    "remark": ""
+  },
+  {
+    "index": 49,
+    "name": "包头市职工大学",
+    "code": "4215050204",
+    "department": "内蒙古自治区",
+    "remark": ""
+  },
+  {
+    "index": 50,
+    "name": "内蒙古开放大学",
+    "code": "4215051192",
+    "department": "内蒙古自治区",
+    "remark": ""
+  },
+  {
+    "index": 51,
+    "name": "辽宁兵器工业职工大学",
+    "code": "4221051087",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 52,
+    "name": "大连工人大学",
+    "code": "4221051110",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 53,
+    "name": "空军第四职工大学",
+    "code": "4221051117",
+    "department": "空军装备部",
+    "remark": ""
+  },
+  {
+    "index": 54,
+    "name": "海军职工大学",
+    "code": "4221051118",
+    "department": "海军装备部",
+    "remark": ""
+  },
+  {
+    "index": 55,
+    "name": "大连职工大学",
+    "code": "4221051120",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 56,
+    "name": "抚顺矿务局职工工学院",
+    "code": "4221051125",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 57,
+    "name": "抚顺石油化工公司职工大学",
+    "code": "4221051126",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 58,
+    "name": "阜新矿务局职工大学",
+    "code": "4221051138",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 59,
+    "name": "朝阳职工工学院",
+    "code": "4221051143",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 60,
+    "name": "大连市教育学院",
+    "code": "4221051149",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 61,
+    "name": "辽宁开放大学",
+    "code": "4221051196",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 62,
+    "name": "阜新煤炭职工医学专科学校",
+    "code": "4221051227",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 63,
+    "name": "辽宁冶金职工大学",
+    "code": "4221051695",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 64,
+    "name": "辽宁公安司法管理干部学院",
+    "code": "4221051842",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 65,
+    "name": "沈阳机械工业职工大学",
+    "code": "4221051843",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 66,
+    "name": "鞍山钢铁集团公司职工大学",
+    "code": "4221051845",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 67,
+    "name": "沈阳开放大学",
+    "code": "4221051848",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 68,
+    "name": "大连开放大学",
+    "code": "4221051849",
+    "department": "辽宁省",
+    "remark": ""
+  },
+  {
+    "index": 69,
+    "name": "长春职工大学",
+    "code": "4222050226",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 70,
+    "name": "长春市建筑职工业余大学",
+    "code": "4222050229",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 71,
+    "name": "长春职工医科大学",
+    "code": "4222050232",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 72,
+    "name": "吉林市职工大学",
+    "code": "4222050234",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 73,
+    "name": "吉林化学工业公司职工大学",
+    "code": "4222050236",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 74,
+    "name": "通化市职工大学",
+    "code": "4222050242",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 75,
+    "name": "通化钢铁公司职工大学",
+    "code": "4222050243",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 76,
+    "name": "四平农村成人高等专科学校",
+    "code": "4222050249",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 77,
+    "name": "吉林省教育学院",
+    "code": "4222050252",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 78,
+    "name": "长春教育学院",
+    "code": "4222050253",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 79,
+    "name": "吉林开放大学",
+    "code": "4222051230",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 80,
+    "name": "吉林省经济管理干部学院",
+    "code": "4222051243",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 81,
+    "name": "吉林职工医科大学",
+    "code": "4222051704",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 82,
+    "name": "长春开放大学",
+    "code": "4222051887",
+    "department": "吉林省",
+    "remark": ""
+  },
+  {
+    "index": 83,
+    "name": "黑龙江兵器工业职工大学",
+    "code": "4223050264",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 84,
+    "name": "哈尔滨航空职工大学",
+    "code": "4223050266",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 85,
+    "name": "哈尔滨市职工大学",
+    "code": "4223050269",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 86,
+    "name": "齐齐哈尔市建设职工大学",
+    "code": "4223050306",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 87,
+    "name": "齐齐哈尔市职工大学",
+    "code": "4223050311",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 88,
+    "name": "鹤岗矿务局职工大学",
+    "code": "4223050327",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 89,
+    "name": "大庆石油化工总厂职工大学",
+    "code": "4223050330",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 90,
+    "name": "黑龙江农垦管理干部学院",
+    "code": "4223050337",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 91,
+    "name": "黑龙江省经济管理干部学院",
+    "code": "4223050335",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 92,
+    "name": "黑龙江省政法管理干部学院",
+    "code": "4223050343",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 93,
+    "name": "黑龙江省教育学院",
+    "code": "4223050344",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 94,
+    "name": "绥化市教育学院",
+    "code": "4223050349",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 95,
+    "name": "黑龙江开放大学",
+    "code": "4223051244",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 96,
+    "name": "黑龙江省商业职工大学",
+    "code": "4223051744",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 97,
+    "name": "黑龙江省社会科学院职工大学",
+    "code": "4223051745",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 98,
+    "name": "哈尔滨开放大学",
+    "code": "4223051876",
+    "department": "黑龙江省",
+    "remark": ""
+  },
+  {
+    "index": 99,
+    "name": "上海科技管理干部学院",
+    "code": "4231050033",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 100,
+    "name": "上海市黄浦区业余大学",
+    "code": "4231050363",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 101,
+    "name": "上海市徐汇区业余大学",
+    "code": "4231050366",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 102,
+    "name": "上海市长宁区业余大学",
+    "code": "4231050367",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 103,
+    "name": "上海市静安区业余大学",
+    "code": "4231050368",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 104,
+    "name": "上海市普陀区业余大学",
+    "code": "4231050369",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 105,
+    "name": "上海市杨浦区业余大学",
+    "code": "4231050372",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 106,
+    "name": "上海纺织工业职工大学",
+    "code": "4231050393",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 107,
+    "name": "上海医药职工大学",
+    "code": "4231050424",
+    "department": "上海市",
+    "remark": "民办"
+  },
+  {
+    "index": 108,
+    "name": "上海开放大学",
+    "code": "4231051252",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 109,
+    "name": "上海青年管理干部学院",
+    "code": "4231051615",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 110,
+    "name": "上海市宝山区业余大学",
+    "code": "4231051852",
+    "department": "上海市",
+    "remark": ""
+  },
+  {
+    "index": 111,
+    "name": "南京市职工大学",
+    "code": "4232050460",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 112,
+    "name": "空军第一职工大学",
+    "code": "4232050461",
+    "department": "空军装备部",
+    "remark": ""
+  },
+  {
+    "index": 113,
+    "name": "南通市工人业余大学",
+    "code": "4232050504",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 114,
+    "name": "扬州教育学院",
+    "code": "4232050526",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 115,
+    "name": "江苏开放大学",
+    "code": "4232051255",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 116,
+    "name": "江苏省省级机关管理干部学院",
+    "code": "4232051257",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 117,
+    "name": "南京开放大学",
+    "code": "4232051396",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 118,
+    "name": "江苏省青年管理干部学院",
+    "code": "4232051828",
+    "department": "江苏省",
+    "remark": ""
+  },
+  {
+    "index": 119,
+    "name": "浙江省省级机关职工业余大学",
+    "code": "4233050550",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 120,
+    "name": "杭州市工人业余大学",
+    "code": "4233050551",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 121,
+    "name": "温州市工人业余大学",
+    "code": "4233050554",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 122,
+    "name": "金华教育学院",
+    "code": "4233050561",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 123,
+    "name": "浙江开放大学",
+    "code": "4233051258",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 124,
+    "name": "浙江经济管理职工大学",
+    "code": "4233051259",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 125,
+    "name": "浙江嘉兴教育学院",
+    "code": "4233051814",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 126,
+    "name": "宁波开放大学",
+    "code": "4233051885",
+    "department": "浙江省",
+    "remark": ""
+  },
+  {
+    "index": 127,
+    "name": "淮南市职工大学",
+    "code": "4234050565",
+    "department": "安徽省",
+    "remark": ""
+  },
+  {
+    "index": 128,
+    "name": "合肥职工科技大学",
+    "code": "4234050569",
+    "department": "安徽省",
+    "remark": ""
+  },
+  {
+    "index": 129,
+    "name": "合肥市职工大学",
+    "code": "4234050570",
+    "department": "安徽省",
+    "remark": ""
+  },
+  {
+    "index": 130,
+    "name": "安徽经济管理干部学院",
+    "code": "4234050581",
+    "department": "安徽省",
+    "remark": ""
+  },
+  {
+    "index": 131,
+    "name": "宿州教育学院",
+    "code": "4234051265",
+    "department": "安徽省",
+    "remark": ""
+  },
+  {
+    "index": 132,
+    "name": "安徽开放大学",
+    "code": "4234051388",
+    "department": "安徽省",
+    "remark": ""
+  },
+  {
+    "index": 133,
+    "name": "福建教育学院",
+    "code": "4235050591",
+    "department": "福建省",
+    "remark": ""
+  },
+  {
+    "index": 134,
+    "name": "福建开放大学",
+    "code": "4235051270",
+    "department": "福建省",
+    "remark": ""
+  },
+  {
+    "index": 135,
+    "name": "厦门开放大学",
+    "code": "4235051833",
+    "department": "福建省",
+    "remark": ""
+  },
+  {
+    "index": 136,
+    "name": "江西行政管理干部学院",
+    "code": "4236050151",
+    "department": "江西省",
+    "remark": ""
+  },
+  {
+    "index": 137,
+    "name": "昌河职工工学院",
+    "code": "4236050603",
+    "department": "江西省",
+    "remark": ""
+  },
+  {
+    "index": 138,
+    "name": "南昌钢铁有限责任公司职工大学",
+    "code": "4236050607",
+    "department": "江西省",
+    "remark": ""
+  },
+  {
+    "index": 139,
+    "name": "江西开放大学",
+    "code": "4236051281",
+    "department": "江西省",
+    "remark": ""
+  },
+  {
+    "index": 140,
+    "name": "山东省水利职工大学",
+    "code": "4237050626",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 141,
+    "name": "山东兵器工业职工大学",
+    "code": "4237050638",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 142,
+    "name": "新汶矿务局职工大学",
+    "code": "4237050641",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 143,
+    "name": "济南市职工大学",
+    "code": "4237050644",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 144,
+    "name": "山东省经济管理干部学院",
+    "code": "4237050649",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 145,
+    "name": "山东省聊城教育学院",
+    "code": "4237050661",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 146,
+    "name": "山东省济宁教育学院",
+    "code": "4237050663",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 147,
+    "name": "山东开放大学",
+    "code": "4237051286",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 148,
+    "name": "兖州矿区职工大学",
+    "code": "4237051777",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 149,
+    "name": "山东财政职工大学",
+    "code": "4237051779",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 150,
+    "name": "青岛开放大学",
+    "code": "4237051858",
+    "department": "山东省",
+    "remark": ""
+  },
+  {
+    "index": 151,
+    "name": "长城铝业公司职工工学院",
+    "code": "4241050673",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 152,
+    "name": "郑州市职工大学",
+    "code": "4241050674",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 153,
+    "name": "第一拖拉机制造厂拖拉机学院",
+    "code": "4241050680",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 154,
+    "name": "洛阳轴承职工大学",
+    "code": "4241050682",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 155,
+    "name": "洛阳有色金属职工大学",
+    "code": "4241050686",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 156,
+    "name": "开封空分设备厂职工大学",
+    "code": "4241050688",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 157,
+    "name": "河南开放大学",
+    "code": "4241051287",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 158,
+    "name": "焦作职工医学院",
+    "code": "4241051408",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 159,
+    "name": "磨料磨具工业职工大学",
+    "code": "4241051411",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 160,
+    "name": "驻马店教育学院",
+    "code": "4241051413",
+    "department": "河南省",
+    "remark": ""
+  },
+  {
+    "index": 161,
+    "name": "武汉开放大学",
+    "code": "4242050046",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 162,
+    "name": "湖北兵器工业职工大学",
+    "code": "4242050717",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 163,
+    "name": "湖北省纺织职工大学",
+    "code": "4242050733",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 164,
+    "name": "鄂城钢铁厂职工大学",
+    "code": "4242050738",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 165,
+    "name": "丹江口工程管理局职工大学",
+    "code": "4242050740",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 166,
+    "name": "湖北省直属机关业余大学",
+    "code": "4242050742",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 167,
+    "name": "湖北省经济管理干部学院",
+    "code": "4242050756",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 168,
+    "name": "十堰教育学院",
+    "code": "4242050762",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 169,
+    "name": "大冶钢厂职工大学",
+    "code": "4242051297",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 170,
+    "name": "湖北开放大学",
+    "code": "4242051305",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 171,
+    "name": "武汉冶金管理干部学院",
+    "code": "4242051773",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 172,
+    "name": "湖北武汉公安管理干部学院",
+    "code": "4242051774",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 173,
+    "name": "华中电业联合职工大学",
+    "code": "4242051862",
+    "department": "湖北省",
+    "remark": ""
+  },
+  {
+    "index": 174,
+    "name": "涟源钢铁总厂职工大学",
+    "code": "4243050774",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 175,
+    "name": "株洲市职工大学",
+    "code": "4243050788",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 176,
+    "name": "湖南航空工业职工工学院",
+    "code": "4243050793",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 177,
+    "name": "中钢集团衡阳重机职工大学",
+    "code": "4243050794",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 178,
+    "name": "衡阳工业职工大学",
+    "code": "4243050798",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 179,
+    "name": "长沙教育学院",
+    "code": "4243050810",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 180,
+    "name": "湖南开放大学",
+    "code": "4243051306",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 181,
+    "name": "益阳教育学院",
+    "code": "4243051310",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 182,
+    "name": "湖南金融技术职工大学",
+    "code": "4243051766",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 183,
+    "name": "湖南纺织职工大学",
+    "code": "4243051767",
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 184,
+    "name": "长沙工业职工大学",
+    "code": 4243050784,
+    "department": "湖南省",
+    "remark": ""
+  },
+  {
+    "index": 185,
+    "name": "广州金桥管理干部学院",
+    "code": "4244050075",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 186,
+    "name": "南海成人学院",
+    "code": "4244050079",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 187,
+    "name": "湛江市业余大学",
+    "code": "4244050821",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 188,
+    "name": "广东省国防工业职工大学",
+    "code": "4244050826",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 189,
+    "name": "汕头市业余大学",
+    "code": "4244050835",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 190,
+    "name": "韶关市职工大学",
+    "code": "4244050837",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 191,
+    "name": "广州市公安管理干部学院",
+    "code": "4244050855",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 192,
+    "name": "广东省公安司法管理干部学院",
+    "code": "4244050859",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 193,
+    "name": "广东开放大学",
+    "code": "4244051315",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 194,
+    "name": "广东新华教育学院",
+    "code": "4244051317",
+    "department": "广东省教育厅",
+    "remark": "民办"
+  },
+  {
+    "index": 195,
+    "name": "广东省职工体育运动技术学院",
+    "code": "4244051319",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 196,
+    "name": "广东社会科学大学",
+    "code": "4244051320",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 197,
+    "name": "广州开放大学",
+    "code": "4244051393",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 198,
+    "name": "深圳开放大学",
+    "code": "4244051888",
+    "department": "广东省",
+    "remark": ""
+  },
+  {
+    "index": 199,
+    "name": "桂林市职工大学",
+    "code": "4245050867",
+    "department": "广西壮族自治区",
+    "remark": ""
+  },
+  {
+    "index": 200,
+    "name": "广西教育学院",
+    "code": "4245050870",
+    "department": "广西壮族自治区",
+    "remark": ""
+  },
+  {
+    "index": 201,
+    "name": "广西开放大学",
+    "code": "4245051338",
+    "department": "广西壮族自治区",
+    "remark": ""
+  },
+  {
+    "index": 202,
+    "name": "广西政法管理干部学院",
+    "code": "4245051340",
+    "department": "广西壮族自治区",
+    "remark": ""
+  },
+  {
+    "index": 203,
+    "name": "海南开放大学",
+    "code": "4246051865",
+    "department": "海南省",
+    "remark": ""
+  },
+  {
+    "index": 204,
+    "name": "重庆电力职工大学",
+    "code": "4250050901",
+    "department": "重庆市",
+    "remark": ""
+  },
+  {
+    "index": 205,
+    "name": "重庆冶金成人学院",
+    "code": "4250050905",
+    "department": "重庆市",
+    "remark": ""
+  },
+  {
+    "index": 206,
+    "name": "重庆开放大学",
+    "code": "4250051866",
+    "department": "重庆市",
+    "remark": ""
+  },
+  {
+    "index": 207,
+    "name": "中国工程物理研究院职工工学院",
+    "code": "4251050879",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 208,
+    "name": "国营涪江机器厂职工大学",
+    "code": "4251050885",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 209,
+    "name": "第五冶金建设公司职工大学",
+    "code": "4251050908",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 210,
+    "name": "成都工业职工大学",
+    "code": "4251050913",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 211,
+    "name": "四川省化工职工大学",
+    "code": "4251050919",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 212,
+    "name": "中国科学院成都分院职工大学",
+    "code": "4251050928",
+    "department": "中国科学院",
+    "remark": ""
+  },
+  {
+    "index": 213,
+    "name": "广元职工医学院",
+    "code": "4251050930",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 214,
+    "name": "南充市职工大学",
+    "code": "4251050932",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 215,
+    "name": "四川开放大学",
+    "code": "4251051341",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 216,
+    "name": "成都市职工大学",
+    "code": "4251051758",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 217,
+    "name": "成都开放大学",
+    "code": "4251051886",
+    "department": "四川省",
+    "remark": ""
+  },
+  {
+    "index": 218,
+    "name": "贵州铝厂职工大学",
+    "code": "4252050962",
+    "department": "贵州省",
+    "remark": ""
+  },
+  {
+    "index": 219,
+    "name": "贵州机械工业职工大学",
+    "code": "4252050965",
+    "department": "贵州省",
+    "remark": ""
+  },
+  {
+    "index": 220,
+    "name": "贵州开放大学",
+    "code": "4252051352",
+    "department": "贵州省",
+    "remark": ""
+  },
+  {
+    "index": 221,
+    "name": "云南开放大学",
+    "code": "4253051357",
+    "department": "云南省",
+    "remark": ""
+  },
+  {
+    "index": 222,
+    "name": "陕西航天职工大学",
+    "code": "4261050083",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 223,
+    "name": "西安航空职工大学",
+    "code": "4261050989",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 224,
+    "name": "西安飞机工业公司职工工学院",
+    "code": "4261050990",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 225,
+    "name": "陕西兵器工业职工大学",
+    "code": "4261051001",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 226,
+    "name": "西北电业职工大学",
+    "code": "4261051002",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 227,
+    "name": "西安铁路工程职工大学",
+    "code": "4261051006",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 228,
+    "name": "西安电力机械制造公司机电学院",
+    "code": "4261051009",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 229,
+    "name": "陕西省建筑工程总公司职工大学",
+    "code": "4261051010",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 230,
+    "name": "西安市职工大学",
+    "code": "4261051017",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 231,
+    "name": "宝鸡市职工大学",
+    "code": "4261051018",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 232,
+    "name": "陕西省宝鸡教育学院",
+    "code": "4261051027",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 233,
+    "name": "陕西开放大学",
+    "code": "4261051370",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 234,
+    "name": "陕西工运学院",
+    "code": "4261051373",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 235,
+    "name": "西安开放大学",
+    "code": "4261051871",
+    "department": "陕西省",
+    "remark": ""
+  },
+  {
+    "index": 236,
+    "name": "兰州铁路工程职工大学",
+    "code": "4262051039",
+    "department": "甘肃省",
+    "remark": ""
+  },
+  {
+    "index": 237,
+    "name": "甘肃核工业职工大学",
+    "code": "4262051040",
+    "department": "甘肃省",
+    "remark": ""
+  },
+  {
+    "index": 238,
+    "name": "银光化学材料厂职工大学",
+    "code": "4262051042",
+    "department": "甘肃省",
+    "remark": ""
+  },
+  {
+    "index": 239,
+    "name": "甘肃开放大学",
+    "code": "4262051374",
+    "department": "甘肃省",
+    "remark": ""
+  },
+  {
+    "index": 240,
+    "name": "青海省联合职工大学",
+    "code": "4263051049",
+    "department": "青海省",
+    "remark": ""
+  },
+  {
+    "index": 241,
+    "name": "青海开放大学",
+    "code": "4263051382",
+    "department": "青海省",
+    "remark": ""
+  },
+  {
+    "index": 242,
+    "name": "宁夏开放大学",
+    "code": "4264051383",
+    "department": "宁夏回族自治区",
+    "remark": ""
+  },
+  {
+    "index": 243,
+    "name": "新疆生产建设兵团开放大学",
+    "code": "4265051210",
+    "department": "新疆生产建设兵团",
+    "remark": ""
+  },
+  {
+    "index": 244,
+    "name": "新疆开放大学",
+    "code": "4265051387",
+    "department": "新疆维吾尔自治区",
+    "remark": ""
+  },
+  {
+    "index": 245,
+    "name": "喀什教育学院",
+    "code": "4265051594",
+    "department": "新疆维吾尔自治区",
+    "remark": ""
+  },
+  {
+    "index": 246,
+    "name": "新疆生产建设兵团教育学院",
+    "code": "4265051595",
+    "department": "新疆生产建设兵团",
+    "remark": ""
+  },
+  {
+    "index": 247,
+    "name": "和田地区教育学院",
+    "code": "4265051599",
+    "department": "新疆维吾尔自治区",
+    "remark": ""
+  },
+  {
+    "index": 248,
+    "name": "阿克苏教育学院",
+    "code": "4265051717",
+    "department": "新疆维吾尔自治区",
+    "remark": ""
+  }
+]
